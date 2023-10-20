@@ -1,15 +1,15 @@
 # Contributing
-- 1. Fork it (DSAS)[] on GitHub
-- 2. Create your feature branch (git checkout -b my-new-feature)
-- 3. Commit your changes (git commit -am 'Add some feature')
-- 4. Push to the branch (git push origin my-new-feature)
-- 5. Create new Pull Request
+- Fork it (DSAS)[] on GitHub
+- Create your feature branch (git checkout -b my-new-feature)
+- Commit your changes (git commit -am 'Add some feature')
+- Push to the branch (git push origin my-new-feature)
+- Create new Pull Request
 
 # Rules
-- 1. No cheating
-- 2. No copying
-- 3. No looking at other people's code
-- 4. No using other people's code
+- No cheating
+- No copying
+- No looking at other people's code
+- No using other people's code
 
 # License
 - MIT License
