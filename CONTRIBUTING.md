@@ -1,0 +1,53 @@
+# Contributing
+- 1. Fork it (DSAS)[] on GitHub
+- 2. Create your feature branch (git checkout -b my-new-feature)
+- 3. Commit your changes (git commit -am 'Add some feature')
+- 4. Push to the branch (git push origin my-new-feature)
+- 5. Create new Pull Request
+
+# Rules
+- 1. No cheating
+- 2. No copying
+- 3. No looking at other people's code
+- 4. No using other people's code
+
+# License
+- MIT License
+
+# Authors
+- [Marvin.K](https://www.marvinbuge.tech)
+
+# Acknowledgments
+- [DSAS](-)
+
+# Contact
+- [Marvin.K](https://www.marvinbuge.tech)
+
+# Changelog
+- 1.0.0
+  - Initial Release
+
+# TODO
+- [ ] Add more data structures
+- [ ] Add more algorithms
+- [ ] Add more tests
+- [ ] Add more documentation
+- [ ] Add more examples
+- [ ] Add more comments
+- [ ] Add more features
+- [ ] Add more everything
+
+# Bugs
+- None at the moment
+
+# Notes
+- None at the moment
+
+# Credits
+- None at the moment
+
+# Donations
+- [Buy me a coffee](https://www.buymeacoffee.com/bugemarvin)
+
+# Sponsors
+- None at the moment
